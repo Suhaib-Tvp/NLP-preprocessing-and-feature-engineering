@@ -1,4 +1,4 @@
-# **README - NLP Analysis of News Article**
+# ** NLP Analysis of News Article**
 
 ## **Project Overview**
 This project involves Natural Language Processing (NLP) analysis of the news article *"Kerala Police: The Club That Changed Kerala Football Completes 40 Years"* by M. R. Praveen Chandran, published on February 14, 2024. The goal is to preprocess the article and apply various NLP techniques, including feature extraction and analysis.
